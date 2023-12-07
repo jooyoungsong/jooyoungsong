@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 <br><br>
 <h2>📝 Contact me </h2>
 <div>
-<a href="https://github.com/wwishh"><img alt="RED" src ="https://img.shields.io/badge/Github-181717.svg?&style=flat&logo=GitHub&logoColor=white"/></a>
+<a href="https://github.com/jooyoungsong"><img alt="RED" src ="https://img.shields.io/badge/Github-181717.svg?&style=flat&logo=GitHub&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"></a>
 
 </div><br/>
