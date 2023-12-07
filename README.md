@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 
 |소속 및 단체|활동 기간|내용|
 |---|---|---|
-|순천향대학교|2014.03~ 2020.02 | 순천향대학교 경제금융학과 졸업 |
 |쌍용교육센터|2023.06 ~ 2023.12 | AWS와 Docker & Kubernetes를 활용한 Java Full-Stack 개발자 양성과정 수료 |
+|순천향대학교|2014.03~ 2020.02 | 순천향대학교 경제금융학과 졸업 |
 
 
 
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 | 기간 | 내용 | 역할 |
 | --- | --- | ---|
 | 2023.08 ~ 2023.09| <a href="https://github.com/jooyoungsong/SemiProject.git">HyuGo</a> | 휴게소 통합 플랫폼 - 메인 css, 개인회원가입, 로그인, 마이페이지 백엔드 개발 |
-| 2023.11 ~ 2023.12| <a href="https://github.com/ssunvibesonly/Career_Z1one.git">4B</a> |  채용 사이트 Community 백엔드 개발, DB설계  |
+| 2023.11 ~ 2023.12| <a href="https://github.com/ssunvibesonly/Career_Z1one.git">Z1one</a> |  채용 사이트 Community 백엔드 개발, DB설계  |
 
 
 
