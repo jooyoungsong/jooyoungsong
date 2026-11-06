@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 |소속 및 단체|활동 기간|내용|
 |---|---|---|
 |쌍용교육센터|2023.06 ~ 2023.12 | AWS와 Docker & Kubernetes를 활용한 Java Full-Stack 개발자 양성과정 수료 |
-|순천향대학교|2014.03~ 2020.02 | 순천향대학교 경제금융학과 졸업 |
 
 
 
